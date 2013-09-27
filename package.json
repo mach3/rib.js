@@ -1,0 +1,12 @@
+{
+	"name": "rib.js",
+	"version": "0.8.0",
+	"dependencies": {
+		"jquery": "*"
+	},
+	"devDependencies": {
+		"grunt": "~0.4",
+		"grunt-contrib-uglify": "*",
+		"grunt-contrib-concat": "*"
+	}
+}
